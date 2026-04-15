@@ -1,18 +1,22 @@
-# Performance Audit 
+# Performance Audit
 
 Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
 
 De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
 
+📖 **Bekijk de volledige analyse in de Wiki:**  
+👉 [Performance Audit Wiki](https://github.com/JasinAhmed/performance-audit/wiki)
 
+---
 
-### SportCity website
+## SportCity website
 
 Ik heb de website van SportCity getest.  
 Dit is een fitness website waar je informatie kunt vinden over sportscholen, abonnementen en locaties.
 
 *(<img width="1910" height="861" alt="image" src="https://github.com/user-attachments/assets/21dba824-6399-47a8-a7c9-0b357b9d2bcd" />)*
 
+---
 
 ## Testresultaten
 
@@ -21,13 +25,17 @@ Dit is een fitness website waar je informatie kunt vinden over sportscholen, abo
 
 <img width="752" height="833" alt="image" src="https://github.com/user-attachments/assets/7f8a8ba3-c92f-4563-adf9-39caf3a9c089" />
 
+---
 
 ### PageSpeed Insights (Core Web Vitals)
 <img width="1906" height="904" alt="Schermafbeelding" src="https://github.com/user-attachments/assets/7a566d13-d212-48af-a0ad-e99f3b4ae55e" />
 
+---
+
 ### WebPageTest (Waterfall)
 ![Waterfall](https://github.com/user-attachments/assets/6fdffdba-91dd-46f3-baf3-1d197db3a19e)
 
+---
 
 ## Samenvatting van bevindingen
 
@@ -45,10 +53,14 @@ Wat mij vooral opvalt:
 Alle tools laten eigenlijk dezelfde problemen zien.  
 Ook echte gebruikersdata (CrUX) bevestigt dat deze problemen impact hebben.
 
+---
+
 ## Conclusie
 
 De website werkt goed op desktop, maar **op mobiel is de performance minder goed**.  
 De grootste problemen zijn JavaScript en grote bestanden.
+
+---
 
 ## Aanbevelingen
 
@@ -57,9 +69,10 @@ De grootste problemen zijn JavaScript en grote bestanden.
 - Ongebruikte CSS en JavaScript verwijderen  
 - Afbeeldingen vaste afmetingen geven  
 
+📖 **Voor de volledige analyse en uitleg:**  
+👉 [Bekijk de Wiki](https://github.com/JasinAhmed/performance-audit/wiki)
 
-Voor de volledige analyse en uitleg, zie de Wiki van deze repository.
-
+---
 
 ## Licentie
 
