@@ -4,8 +4,8 @@ Doe een Performance audit op een bestaande website uit je eigen omgeving en rapp
 
 De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
 
-📖 **Bekijk de volledige analyse in de Wiki:**  
-👉 [Performance Audit Wiki](https://github.com/JasinAhmed/performance-audit/wiki)
+ **Bekijk de volledige analyse in de Wiki:**  
+ [Performance Audit Wiki](https://github.com/JasinAhmed/performance-audit/wiki)
 
 ---
 
@@ -69,8 +69,8 @@ De grootste problemen zijn JavaScript en grote bestanden.
 - Ongebruikte CSS en JavaScript verwijderen  
 - Afbeeldingen vaste afmetingen geven  
 
-📖 **Voor de volledige analyse en uitleg:**  
-👉 [Bekijk de Wiki](https://github.com/JasinAhmed/performance-audit/wiki)
+**Voor de volledige analyse en uitleg:**  
+[Bekijk de Wiki](https://github.com/JasinAhmed/performance-audit/wiki)
 
 ---
 
